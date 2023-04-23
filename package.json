@@ -1,0 +1,17 @@
+{
+  "name": "apocrypha",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "./build/main.js",
+  "author": "nakkevene",
+  "license": "Apache-2.0",
+  "scripts": {
+    "install": "tsc",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "discord.js": "^14.9.0",
+    "inquirer": "^9.1.5"
+  }
+}
